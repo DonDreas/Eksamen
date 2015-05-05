@@ -10,7 +10,6 @@ namespace EksamensOpgave2015
     {
         static void Main(string[] args)
         {
-            return;
         }
     }
 }
